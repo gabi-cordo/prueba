@@ -485,7 +485,7 @@ strong {
     width: 155px; }
   .registrate-form input:not([type="button"]) {
     background-color: transparent;
-    color: #FFF;
+    color: #FF0B0B;
     border: 1px solid #f8a5ae;
     width: 330px;
     padding: 6px 4px;
